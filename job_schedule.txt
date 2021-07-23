@@ -1,0 +1,1 @@
+*/* 6 * * * python /bcolgrov/get_arrests_data.py
